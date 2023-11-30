@@ -30,8 +30,8 @@ The notebook concludes with a summary of the main findings and implications of t
 To run this notebook, you need to have Python installed on your machine. You can download Python from [here]. After installing Python, you can clone this repository to your local machine and install the required packages using the following commands:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone [<repository-url>](https://github.com/Sirczechs-Kaustubh/PCA-HCA-Handbook.git)
+cd PCA-HCA-Handbook
 ```
 
 ## Usage
